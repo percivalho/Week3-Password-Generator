@@ -92,6 +92,7 @@ Testing done on:
 7. testing on all four types of character types.
 8. testing on displaying of password.
 9. rerun on password generation.
+10. make sure no console log in the running password generator.
 
 
 
