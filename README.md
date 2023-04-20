@@ -84,6 +84,14 @@ it includes the following features:
 Testing done on:
 
 1. testing on non-numeric password length.
+2. testing on numeric password length of <8 or >128. 
+3. testing on all character types excluded.
+4. testing on only one type of character types.
+5. testing on two types of character types.
+6. testing on three types of character types.
+7. testing on all four types of character types.
+8. testing on displaying of password.
+9. rerun on password generation.
 
 
 
